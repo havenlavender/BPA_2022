@@ -1,0 +1,10 @@
+Bread 3.99
+Milk 2.99
+Cheese 4.99
+Porkchop 5.24
+Eggs 1.99
+Rice 2.49
+Broccoli 1.49
+Carrot 0.99
+Cereal 3.49
+Pizza 4.99
